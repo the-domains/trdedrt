@@ -1,14 +1,29 @@
+name: 'TR∆DED∆RT '
+favicon: null
 layout_spectrum: 0.4808769
+typography_spectrum: 0.04291045
+title: SHARING IS CARING
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1934759
-  lightness: 0.7751865
-  brandStrength: 1
   brandColors:
     - '#164845'
     - '#000202'
     - '#97C8D7'
     - '#9F8758'
     - '#FDA58A'
+  brandStrength: 1
+  lightness: 0.7751865
+  saturation: 0.1934759
   rhythmicContrast: 0.6112903
-typography_spectrum: 0.04291045
-name: 'TR∆DED∆RT '
+purpose: []
